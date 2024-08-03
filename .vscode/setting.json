@@ -1,0 +1,7 @@
+{
+  "kotlin.kotlinServer.path": "/usr/local/sdkman/candidates/kotlin/current/bin/kotlinc",
+  "code-runner.executorMap": {
+    "kotlin": "/usr/local/sdkman/candidates/kotlin/current/bin/kotlinc $fileName -include-runtime -d $fileNameWithoutExt.jar && java -jar $fileNameWithoutExt.jar"
+  },
+  "code-runner.runInTerminal": true
+}
